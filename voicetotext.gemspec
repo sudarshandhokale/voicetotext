@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Sudarshan Dhokale"]
   spec.email         = ["sudarshandhokale09@gmail.com"]
   spec.summary       = %q{This gem is for voice to text converstion}
-  spec.description   = %q{This is voice to text}
+  spec.description   = %q{This is voice to text gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
