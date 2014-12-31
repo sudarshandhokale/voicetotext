@@ -6,11 +6,12 @@ require 'voicetotext/version'
 Gem::Specification.new do |spec|
   spec.name          = "voicetotext"
   spec.version       = Voicetotext::VERSION
+  spec.date          = %q{2014-12-31}
   spec.authors       = ["Sudarshan Dhokale"]
   spec.email         = ["sudarshandhokale09@gmail.com"]
-  spec.summary       = %q{This gem is for voice to text converstion}
-  spec.description   = %q{This is voice to text gem}
-  spec.homepage      = ""
+  spec.summary       = %q{Convert voice into text}
+  spec.description   = %q{Convert voice into text with high interpretation}
+  spec.homepage      = "https://github.com/sudarshandhokale/voicetotext"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
